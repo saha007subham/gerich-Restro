@@ -8,7 +8,6 @@ import "./Navbar.css";
 const Navbar = () => {
   //   Jan 16th 2023
   const [toggleMenu, setToggleMenu] = useState(false);
-  console.log("Checking....");
 
   return (
     <nav className="app__navbar">
