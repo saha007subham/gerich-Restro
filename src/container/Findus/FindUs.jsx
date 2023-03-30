@@ -10,9 +10,7 @@ const FindUs = () => (
         Find Us
       </h1>
       <div className="app__wrapper-content">
-        <p className="p__opensans">
-          46, Bankim Chandra Road, Hakimpara, Madrid
-        </p>
+        <p className="p__opensans">9 W 53rd St, New York, NY 10019, USA</p>
         <p
           className="p__cormorant"
           style={{ color: "#DCCA87", margin: "2rem 0" }}
